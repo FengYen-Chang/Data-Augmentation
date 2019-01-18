@@ -1,4 +1,5 @@
 # Data-Augmentation
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)]
 The Data Augmentation functions in python which using numpy and opencv to achieve it.
 
 ## How to Use
